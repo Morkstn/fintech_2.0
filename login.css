@@ -1,0 +1,51 @@
+.form-signin{
+    max-width: 330px;
+    padding: 15px;
+    padding-top: 10em;
+    padding-bottom: 30px;
+    padding-left: 15px;
+}
+.m-auto{
+    margin: auto!important;
+    margin-top: auto!important;
+    margin-right: auto!important;
+    margin-bottom: auto!important;
+    margin-left: auto!important;
+}
+
+.w-100{
+    width: 100%!important;
+}
+
+main{
+    display: block;
+    
+}
+
+.text-center{
+    text-align: center!important;
+    background-color:whitesmoke;
+}
+
+.ff {
+
+   width: 300px;
+   height: 1.2cm;
+   border-radius: 2cm;
+   border-color: blue;
+   background-color: blue;
+   
+   
+}
+button{
+    color: white;
+}
+.checkbox{
+    padding-top:1em;
+}
+
+.form-floating{
+    margin-bottom: 2px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+}
